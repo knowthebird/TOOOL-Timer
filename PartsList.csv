@@ -1,0 +1,42 @@
+﻿Used For,Manufacturer  or Supplier Part Number,Description,Manufacturer or Supplier,Quanity, Cost per Unit ,Total Cost,Link
+Lock,Red KiKlock,Red KiK-lock Padlock,TOOOL,8,$30.00 ,$240.00 ,https://www.toool.us/equipment/Red-KiK-lock-p519912395/
+Timer,5625,Qwiic / Stemma QT 5 Port Hub,Adafruit,1,$2.50 ,$2.50 ,https://www.adafruit.com/product/5625
+Timer,5346,MCP23017 I2C GPIO Expander Breakout - STEMMA QT / Qwiic,Adafruit,2,$5.95 ,$11.90 ,https://www.adafruit.com/product/5346
+Timer,559,Rugged Metal Pushbutton with Red LED Ring - 16mm,Adafruit,3,$4.95 ,$14.85 ,https://www.adafruit.com/product/559
+Timer,2590,Metro Mini 328 V2 - Arduino-Compatible - 5V 16MHz,Adafruit,1,$14.95 ,$14.95 ,https://www.adafruit.com/product/2590
+Timer,877,7-Segment LED Matrix Backpack - STEMMA QT / qwiic,Adafruit,8,$6.95 ,$55.60 ,https://www.adafruit.com/product/877
+Timer,865,"Red 7-segment clock display - 0.56"" digit height",Adafruit,8,$3.95 ,$31.60 ,https://www.adafruit.com/product/865
+Timer,4210,STEMMA QT / Qwiic JST SH 4-pin Cable - 100mm Long,Adafruit,3,$0.95 ,$2.85 ,https://www.adafruit.com/product/4210
+Timer,4399,STEMMA QT / Qwiic JST SH 4-Pin Cable - 50mm Long,Adafruit,8,$0.95 ,$7.60 ,https://www.adafruit.com/product/4399
+Lock,HR10-7R-4SA(73),CONN RCPT FMALE 4POS GOLD SOLDER,Hirose,8,$15.55 ,$124.40 ,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/HR10-7R-4SA-73/
+Timer,HR10-7R-4S(73),CONN RCPT FMALE 4P GOLD SLDR CUP,Hirose,8,$16.26 ,$130.08 ,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/HR10-7R-4S-73/1095427
+Cables,HR10-7P-4P(73),CONN PLUG MALE 4P GOLD SLDR CUP,Hirose,16,$14.61 ,$233.76 ,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/HR10-7P-4P-73/896581
+Cables / Timer,MM-C6R-06.5-28LSZH-F,THIN CAT6 28AWG UTP LSZH 6.5 RED,Pactech,12,$8.11 ,$97.32 ,https://www.digikey.com/en/products/detail/pactech/MM-C6R-06-5-28LSZH-F/14005003
+Lock,D2A-1110,SWITCH SNAP ACTION SPDT 0.1A 30V,Omron Electronics,8,$1.77 ,$14.16 ,https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2A-1110/699999
+Lock,Lock Switch PCB,PCB for Lock Switch and Connector (set of 8+1 spare),OSH Park,1,$4.20 ,$4.20 ,https://oshpark.com/shared_projects/PHDMdzFt
+Timer,TYCNZ-2 ,USB A to USB C Charger Cord 3.1A Fast Charging 2-Pack 6.6ft,JAUX,1,$6.92 ,$6.92 ,https://www.amazon.com/gp/product/B076FPGWNZ
+Timer,DS-WSD300 ,Clear Self Adhesive Rubber Bumpers Pads 13mm diameter x 4mm,Amazon,8,$0.04 ,$0.32 ,https://www.amazon.com/dp/B087MG3G76/
+Timer,B0BK18R23P,Nylon Standoff Male to Female M2.5 10mm+6mm Black,Amazon,16,$0.20 ,$3.20 ,https://www.amazon.com/dp/B0BK18R23P
+Timer,92492A711,Nylon Pan Head Phillips Screw M2.5 x 6mm Black,McMASTER-CARR,16,$0.02 ,$0.32 ,https://www.mcmaster.com/92492A711
+Timer,90925A148,"Torx Rounded Head Screw Number 6 Size 1/2"" Long",McMASTER-CARR,8,$0.20 ,$1.60 ,https://www.mcmaster.com/90925A148/
+Timer,93802A221,"18-8 Pan Head Phillips Screw 0-80 Thread 1/4"" Long",McMASTER-CARR,32,$0.07 ,$2.24 ,https://www.mcmaster.com/91772A055/
+Lock,91292A115,18-8 Socket Head Screw M3 x 0.5 mm 16 mm Long,McMASTER-CARR,8,$0.07 ,$0.57 ,https://www.mcmaster.com/91292A115/
+Lock,91828A211,18-8 Hex Nut M3 x 0.5 mm Thread,McMASTER-CARR,8,$0.05 ,$0.40 ,https://www.mcmaster.com/91828A211/
+Timer,Timer-Assembly-Casing,Main casing for timer and electronics,NA - 3D Printed,1,-,-,-
+Timer,Timer-Assembly-Casing-Logo-Insert,TOOOL Logo insert for main casing,NA - 3D Printed,2,-,-,-
+Timer,Timer-Assembly-Floor-Panel,Floor panel to seal main casing,NA - 3D Printed,1,-,-,-
+Timer,Timer-Assembly-Floor-Panel-Grommet,Grommet to place on power cable and into floor panel,NA - 3D Printed,2,-,-,-
+Timer,Timer-Assembly-Casing-Lid-Cover,Cover to protect top of casing surface in transit,NA - 3D Printed,1,-,-,-
+Lock,Lock-Assembly-Shackle-Side,Lock casing covering shackle,NA - 3D Printed,8,-,-,-
+Lock,Lock-Assembly-Connector-Side,Lock casing covering connector,NA - 3D Printed,8,-,-,-
+Lock / Timer,Receptacle-Cover,Covers to protect receptacles when not in use,NA - 3D Printed,16,-,-,-
+Cables / Timer,MP-H002-04-156,Assorted Sizes of Heat Shrink Tubing,Amazon,As Needed,-,$8.79 ,https://www.amazon.com/gp/product/B07QM8249H/
+Timer,B07T4SYVYG,22 AWG Stranded Wire Kit Silicone 6 Colors  7m Each Spool ,Amazon,As Needed,-,$16.95 ,https://www.amazon.com/gp/product/B07T4SYVYG/
+Lock / Cables / Timer,3096525-M ,Multicore Solder Wire 180 C ,Loctite,As Needed,-,$56.99 ,https://www.amazon.com/gp/product/B00DKF13JY/
+Timer,908570,Clear Silicone Waterproof Sealant,Loctite,As Needed,-,$9.13 ,https://www.amazon.com/dp/B0002BBX3U/
+Lock / Timer,PLA-1.75-SILKY-RED,PLA Filament 1.75mm Shining Red,ZIRO,As Needed,-,$20.99 ,https://www.amazon.com/gp/product/B08BG6ZPF1/
+Timer,Prusament PLA Galaxy Black,PLA Filament 1.75mm Galaxy Black,PRUSA,As Needed,-,$29.99 ,https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/
+,,,,,TOTAL,"$1,144.18 ",
+,,,,,,,
+,,,,,,,
+,,,,,,,
