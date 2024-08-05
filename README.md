@@ -1,2 +1,2 @@
 # TOOOL-Timer
-Timer game for The Open Organization Of Lockpickers (TOOOL).
+Timer for The Open Organization Of Lockpickers (TOOOL) for Lock Picking games and competitions. Initially designed for up to 8 players using TOOOLs red Kik Locks.
